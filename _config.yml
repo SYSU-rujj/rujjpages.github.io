@@ -24,11 +24,11 @@ author:
   avatar           : "myself_update.png"
   name             : "Junjia RU"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Short biography"
   location         : "Guangzhou, China"
   employer         : "Sun Yat-Sen University"
   uri              : # URL
-  email            : "2042290337@qq.com.org" 
+  email            : "2042290337@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
